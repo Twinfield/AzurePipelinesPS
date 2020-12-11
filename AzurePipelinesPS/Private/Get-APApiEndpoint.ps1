@@ -190,7 +190,11 @@ function Get-APApiEndpoint
             'distributedtask-environments'
             {
                 Return '_apis/distributedtask/environments'
-            }           
+            }
+            'distributedtask-environments-k8s-resource'
+            {
+                Return '_apis/distributedtask/environments/{0}/providers/kubernetes'
+            }
             'distributedtask-environmentId'
             {
                 Return '_apis/distributedtask/environments/{0}'
