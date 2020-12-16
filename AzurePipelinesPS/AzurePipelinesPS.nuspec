@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>AzurePipelinesPS</id>
+    <version>1.0.0</version>
+    <title>AzurePipelinesPS</title>
+    <authors>Dejulia489</authors>
+    <owners>Twinfield N.V</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Twinfield fork of AzurePipelinesPS</description>
+    <copyright>Copyright Twinfield N.V 2011-2020</copyright>
+  </metadata>
+  <files>
+    <file src="*.*" target="" />
+  </files>
+</package>
